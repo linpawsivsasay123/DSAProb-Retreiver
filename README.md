@@ -1,4 +1,4 @@
-# CodeWiz Search Engine
+# DSAProb Search Engine
 Welcome to the DSAProb Search Engine repository! This project provides a web application that allows users to search for coding questions and find relevant answers from various online coding platforms. Currently, it supports searching questions from LeetCode (LC) and Codeforces (CF).
 
 ## Prerequisites
